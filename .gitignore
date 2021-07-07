@@ -3,6 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+glove.twitter.27B.100d.txt
+data/
+notebooks/data/
+debug.log
+
+node_modules
+src/data/node_modules
+functions/node_modules
+.vscode
+models
+
 # C extensions
 *.so
 

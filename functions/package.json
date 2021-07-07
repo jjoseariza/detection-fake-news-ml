@@ -1,0 +1,21 @@
+{
+  "name": "functions",
+  "version": "1.0.0",
+  "description": "Script to fetch daily data from a web source",
+  "author": "jjoseariza@gmail.com",
+  "scripts": {
+    "start": "func start"
+  },
+  "dependencies": {
+    "@azure/storage-blob": "^12.7.0",
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.6",
+    "csv-write-stream": "^2.0.0",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "json-2-csv": "^3.14.4",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {}
+}
